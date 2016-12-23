@@ -2,20 +2,19 @@
 
 Inspired by [Solarized](http://ethanschoonover.com/solarized). An attempt to a better-looking Vim. Neat and clean.
 
-![palette](https://github.com/ashfinal/bindata/raw/master/screenshots/vim-colors-violet-palette.png")
-![]()
+![palette](https://github.com/ashfinal/bindata/raw/master/screenshots/vim-colors-violet-palette.png)
 
 ## Features
 
 1. ☯️ Dark & Light
 
-    ![preview](https://github.com/ashfinal/bindata/raw/master/screenshots/vim-colors-violet-preview.png")
+    ![preview](https://github.com/ashfinal/bindata/raw/master/screenshots/vim-colors-violet-preview.png)
 
     Every colorscheme should have dark and light background modes.
 
 2. 🚢 [Airline](https://github.com/vim-airline/vim-airline) Theme
 
-    ![airline](https://github.com/ashfinal/bindata/raw/master/screenshots/vim-colors-violet-airline.png")
+    ![airline](https://github.com/ashfinal/bindata/raw/master/screenshots/vim-colors-violet-airline.png)
 
     While using `violet` colorscheme, the included airline theme should be loaded automatically.
 
@@ -55,5 +54,3 @@ Then add this into your `.vimrc` file: `colorscheme violet`.
 ## Welcome to
 
 Share your thoughts. :) Any question, file an issue.
-
-
