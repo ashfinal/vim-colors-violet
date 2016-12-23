@@ -3,6 +3,7 @@
 Inspired by [Solarized](http://ethanschoonover.com/solarized). An attempt to a better-looking Vim. Neat and clean.
 
 ![palette](https://github.com/ashfinal/bindata/raw/master/screenshots/vim-colors-violet-palette.png")
+![]()
 
 ## Features
 
@@ -54,3 +55,5 @@ Then add this into your `.vimrc` file: `colorscheme violet`.
 ## Welcome to
 
 Share your thoughts. :) Any question, file an issue.
+
+
